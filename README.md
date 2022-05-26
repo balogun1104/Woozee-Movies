@@ -1,70 +1,93 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <img title="Netflix" src="https://fhsknightlife.com/wp-content/uploads/2020/04/uVASXqvMzyUrAPfSn9pMtxOC7s89ulzdDKBdtqCP.png" alt="NETFLIX Logo" width="400" />
+  <br>
+  Netflix Clone Built Using React.JS & Firebase & Redux
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p><font size="3">
+  This is a clone of Netflix website built using <strong><em>React.JS</em></strong> as a Front-end & <strong><em>Firebase</em></strong> as Authenticate  & <strong><em>Redux</em></strong> as state management. It's not a replica, and it  doesn't have all the features of Netflix website. it's a similar version of Netflix with my own design touch, showing my abilities in React.JS to build something advanced   like Netflix. It contains the home page, sign-in page, sign-up page, browse page, and movie player.
+  <br><br> 
+  <strong><em>Take a look at the live version here:</em></strong> https://netflix-two-theta.vercel.app :octocat: :heart_eyes:
+</p>
+  
+  ## Table of Contents
 
-## Available Scripts
+- [Project Walk-Through](#project-walk-through)
+  - [Home Page](#home-page)
+  - [Getstart Page](#Getstart-page)
+  - [Sign-in Page](#sign-in-page)
+  - [Sign-up Page](#sign-up-page)
+- [Live Demo](#live-demo)
+- [Technology Used]()
 
-In the project directory, you can run:
+  Project Walk-Through
 
-### `npm start`
+ # Home Page
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<div align="center"><a name="menu"></a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![banner](https://user-images.githubusercontent.com/91429966/167375312-957ccddb-d932-42c9-b9c3-35e242993bfc.PNG)
+  ![silder](https://user-images.githubusercontent.com/91429966/167375377-4015b3f5-965d-493a-bd65-bced958e300e.PNG)
+  ![Footer](https://user-images.githubusercontent.com/91429966/167375417-a07396e4-8a9a-4221-90d2-4e40c790dd91.PNG)
 
-### `npm test`
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ # GetStart page
+ 
+ <div align="center"><a name="menu"></a>
+  
+![getstartbanner](https://user-images.githubusercontent.com/91429966/167376368-cde9b60f-d60f-45ed-85c2-81543af5a79c.PNG)
+  ![1](https://user-images.githubusercontent.com/91429966/167376405-293272e3-6d96-4649-ab4d-feeb9ea2f0ca.PNG)
+  ![2](https://user-images.githubusercontent.com/91429966/167376419-a5544947-3762-4c9f-9bab-743976dd6fdf.PNG)
+  ![3](https://user-images.githubusercontent.com/91429966/167376440-ca905d84-05fe-49cd-81a8-f7d1c65f8b8c.PNG)
+  ![4](https://user-images.githubusercontent.com/91429966/167376460-475a1d57-25f0-4d1a-b437-4ffa95bea44c.PNG)
+  ![acc](https://user-images.githubusercontent.com/91429966/167376480-fa908b03-8cc1-4413-943f-6d3a3d34d9e9.PNG)
+  ![Footer](https://user-images.githubusercontent.com/91429966/167376494-7f7f93d9-5ec4-40d8-b433-5e4ad00d9622.PNG)
 
-### `npm run build`
+</div>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Sign-in Page
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ <div align="center"><a name="menu"></a>
+ 
+![screencapture-netflix-two-theta-vercel-app-signin-2022-05-09-02_04_10](https://user-images.githubusercontent.com/91429966/167377415-b12a0bba-6b44-4a3e-9e69-e7bb14e72554.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+</div>
 
-### `npm run eject`
+# Sign-up Page
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+ <div align="center"><a name="menu"></a>
+ 
+![screencapture-netflix-two-theta-vercel-app-register-2022-05-09-02_08_20](https://user-images.githubusercontent.com/91429966/167378109-c4a7d7fe-8f86-4576-8519-fce0b5b2d150.png)
+  
+![screencapture-netflix-two-theta-vercel-app-register-2022-05-09-02_06_20](https://user-images.githubusercontent.com/91429966/167377756-fe318cfb-98d3-463a-9c24-33f66080d9c5.png)
+  
+![screencapture-netflix-two-theta-vercel-app-register-2022-05-09-02_06_48](https://user-images.githubusercontent.com/91429966/167377827-310512d6-8c8c-47db-ab99-c715f5b102fa.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+</div>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Technology Used
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+React.JS
+React Router.
+React hook-form Yup.
+React Hooks.
+useState.
+useSelcetor.
+useEffect.
+useNavigate.
+useDispatch
+Compound Components.
+JSX.
+sass.
+Firebase.
+Redux.
+VSCode.
+StyleLint.
+EsLint.
+React-Spring.
+framer motion.
 
-## Learn More
+# live-demo
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  <strong><em>Take a look at the live version here:</em></strong> https://netflix-two-theta.vercel.app :octocat: :heart_eyes:
