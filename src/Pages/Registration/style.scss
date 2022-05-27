@@ -1,0 +1,41 @@
+
+.cover{
+    background:url("../../Assets/images/getStartImages/home-bg.jpg");
+    background-size: cover;
+    background-position: center center;
+    
+}
+@media (min-width:500px) and (max-width:765px) {
+    .cover{
+        background:black;
+       
+        
+    }
+    .form{
+      width: 80%;
+      height: 380px;
+      background:none;
+      height: 30px;
+      line-height: 30px;
+      padding: 16px 20px 0;
+      
+    }
+}
+@media (min-width:765px){
+    .form{
+        width: 50%;
+        height: 440px;
+        padding: 28px;
+        &h1{
+            margin: 0;
+        }
+        
+       
+      }
+    .form__sec {
+      margin: 0 0px;
+     
+       
+       
+      }
+}

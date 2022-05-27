@@ -1,0 +1,40 @@
+.ul_wrapper ul >li {
+
+    cursor: pointer;
+    
+}
+
+@media  (min-width:500px) {
+    .ul_wrapper ul >li {
+        display: inline-block;
+        width:50%;
+    }
+}
+
+@media  (min-width:600px) {
+    .ul_wrapper ul >li {
+        display: inline-block;
+        width:33%;
+    }
+}
+
+@media  (min-width:740px) {
+
+    .ul_wrapper ul >li {
+        display: inline-block;
+        width:21.5%;
+        margin-right: 17px;
+        
+    }
+}
+
+@media  (min-width:1020px) {
+
+    .ul_wrapper ul >li {
+       display: inline-block; 
+        width: 20%;
+        font-size: 15px;
+        
+    }
+}
+
